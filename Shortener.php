@@ -1,5 +1,7 @@
 <?php
 
+require 'Configuration.php';
+
 function getRandomString($length)
 {
     $validChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
@@ -16,3 +18,5 @@ function getRandomString($length)
 echo $_POST['url'];
 echo '<br>';
 echo getRandomString(5);
+echo '<br>';
+echo 'userName ' . $configuretion['userName'];
