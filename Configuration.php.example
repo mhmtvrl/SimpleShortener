@@ -1,0 +1,7 @@
+<?php
+$configuration = [
+    'serverName'   => '',
+    'userName'     => '',
+    'password'     => '',
+    'databaseName' => '',
+];

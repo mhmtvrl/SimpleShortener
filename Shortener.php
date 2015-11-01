@@ -19,4 +19,4 @@ echo $_POST['url'];
 echo '<br>';
 echo getRandomString(5);
 echo '<br>';
-echo 'userName ' . $configuretion['userName'];
+echo 'userName ' . $configuration['userName'];
