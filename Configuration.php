@@ -1,7 +1,7 @@
 <?php
 $configuretion = [
-    'serverName'   => '',
-    'userName'     => '',
+    'serverName'   => 'asvdsvd',
+    'userName'     => 'advs',
     'password'     => '',
     'databaseName' => 'SimpleShortener'
 ];
